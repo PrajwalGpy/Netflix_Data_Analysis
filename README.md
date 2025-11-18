@@ -1,4 +1,5 @@
 # Netflix Data Analysis with SQL
+![](https://github.com/PrajwalGpy/Netflix_Data_Analysis/blob/main/logo.png)
 
 This project demonstrates the use of SQL (specifically PostgreSQL) to analyze the "Netflix Titles" dataset. It includes 15 common business questions and their corresponding SQL queries to extract meaningful insights from the data.
 
